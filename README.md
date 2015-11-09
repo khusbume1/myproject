@@ -12,13 +12,17 @@ Read me file
 
 6) Double click on it, and run the project either by pressing F5 from your keyboard or click on the browser shown.The browser name can be seen under the Debug Option.
 
-6) After you execute the project you will be directed to the browser. I have used the local host server for this.
+7) After you execute the project you will be directed to the browser. I have used the local host server for this.
 
 8) At browser you can find links for Feature 1 and Feature 2.
 
 9) Click on Feature1, ft1.txt will be created. 
 
 10) Click on Feature2, ft2.txt will be created.
+
+11)Inside the controller folder, there are two functions. ReadingFromText() is the function written to address feature 1 and HashTag() is the function written to address feature 2.
+
+12)There are two models, TweetModel is used for feature one and TwitterModel is used for feature two.
 
 Note:
 1)Feature 1 has been completed all.
